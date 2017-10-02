@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\6cadc63bbf62875ccd7ac6c7183a9a221400543f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_cee1656082c598ffc6a2079b768e41757e426936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\fd50b0f6501a47abd3a0a63392b135a0b801863d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_0025ebcab79edfeff9c42d7b1b4c603978cc18c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\567e1479130dce3fee89ca327b0e9acebbc002a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_fe499b88c622d1522de77f466945e8d22fd739e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\cf809ca249cf98f1a26ac23f48fc291dac9cc654\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_9f13c1340edfffea422a24e69bc3cdf48236db1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\5db72e58fb02123749b6687f3bbfe5996e10bc12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_27accd635bf03a4faec4d2cf1516a6f885657c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\f1f936597ddfff2982cd8e25303ad39c99d3e9f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_aa25a395f4a31daf7004d2d1bae12d643ede51e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_f904be85c7e5d96ccbaf0605172c975ea50724a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\af6b73375d535d6077c3c577a2095dcb48f29689\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_263641523ae3437a2a9046e39cf031f27da2dfce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_aefe31071e530355367f8ce426b1515a0a2bd4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\0888761bf051f7d49ddedc9cce0da593ab2448c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_f4cba0f6deb19739bcaa0d90c3ff5316a4214f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\eebf66f010129538a14fc8087dfa366ed3becc37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_4ddda6f2d3db6696e5b80db951acd0972a089ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Run\.android\build-cache\b33a2c53ad60b17ca11ba3c534eb086016a99b5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Try\Tugas_1\app\build\intermediates\pre-dexed\debug\classes_2cdf40a1a4f80592a1e66cf79b183f2de44bbc0b.jar" />
+    </item>
+
+</items>
